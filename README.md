@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently exploring AI Integrations
-- 💬 Ask me about Javascript / ReactJS / ReactNative / NextJS 
+- 💬 Ask me about Javascript / ReactJS / ReactNative / NextJS / NodeJS
 - 📫 How to reach me: hammaskkhan@gmail.com
 - ⚡ Fun fact: Love to play games
 
