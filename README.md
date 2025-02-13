@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning with help of [Laracasts](https://laracasts.com)
-- 💬 Ask me about Laravel
+- 💬 Ask me about Javascript / ReactJS / ReactNative / NextJS 
 - 📫 How to reach me: hammaskkhan@gmail.com
 - ⚡ Fun fact: Love to play games
 
