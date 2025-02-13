@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning with help of [Laracasts](https://laracasts.com)
+- 🌱 I’m currently exploring AI Integrations
 - 💬 Ask me about Javascript / ReactJS / ReactNative / NextJS 
 - 📫 How to reach me: hammaskkhan@gmail.com
 - ⚡ Fun fact: Love to play games
@@ -20,7 +20,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
